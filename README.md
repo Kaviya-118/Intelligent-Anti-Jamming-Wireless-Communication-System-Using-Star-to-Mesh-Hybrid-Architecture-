@@ -1,0 +1,2 @@
+# Intelligent-Anti-Jamming-Wireless-Communication-System-Using-Star-to-Mesh-Hybrid-Architecture-
+Intelligent Anti-Jamming Wireless Communication System using a hybrid star-to-mesh architecture. Detects jamming in real time via PDR, delay, and throughput monitoring, then dynamically reconfigures topology to eliminate single-point failure and enable self-healing, adaptive multi-hop routing. Simulated in NS-3 with NetAnim visualization.
